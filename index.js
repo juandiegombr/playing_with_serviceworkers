@@ -22,7 +22,7 @@ const serverOptions = {
 https
   .createServer(serverOptions, app)
   .listen(PORT, () => {
-    console.log(`Server running on port: ${PORT}`)
+    console.log(`Server running on port: ${PORT} 🚀 🚀`)
 })
 
 
